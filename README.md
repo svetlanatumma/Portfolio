@@ -1,10 +1,10 @@
 # Welcome to my GitHub Portfolio! 
 
-**I'm Svetlana** - Aspiring Data Analyst with Marketing & Management Background  
+ 👋 **I'm Svetlana**   - Aspiring Data Analyst with Marketing & Management Background  
 Transitioning to Data Analytics with 10+ years of business experience in marketing and management. 
 Combining strong business acumen with technical skills in data analysis to provide actionable, data-driven insights.
 
-🎯 Seeking Data Analyst opportunities
+🔍 I'm actively searching for a Data Analyst position
 
 ---
 
@@ -26,7 +26,7 @@ Combining strong business acumen with technical skills in data analysis to provi
 **Key Insights**: RAM and storage capacity are primary price drivers; identified 4.77% premium segment outliers 
 
 ### 📊 RFM Analysis - Pharmacy Customer Segmentation
-**Description**: SQL-based RFM analysis of pharmacy retail chain customers to optimize SMS marketing campaigns. Segmented 3,240 customers into 7 strategic groups with tailored marketing recommendations.  
+**Description**: SQL-based RFM analysis of pharmacy retail chain customers to optimize SMS marketing campaigns.   Segmented 3,240 customers into 7 strategic groups with tailored marketing recommendations.  
 **Skills Used**: SQL, Metabase, Customer Segmentation, Data Analysis, Business Intelligence  
 **Key Achievements**:
 - Identified VIP customers (9.07%) generating majority of revenue
