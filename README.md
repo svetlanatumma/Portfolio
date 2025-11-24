@@ -31,7 +31,7 @@ Combining strong business acumen with technical skills in data analysis to provi
 **Key Achievements**:
 - Identified VIP customers (9.07%) generating majority of revenue
 - Developed targeted marketing strategies for each segment
-- Provided data-driven recommendations to reduce marketing costs by 35%
+- Provided data-driven recommendations to reduce marketing costs 
 - Implemented Pareto principle (80/20) for customer value analysis
 
 ### *More projects coming soon...*
