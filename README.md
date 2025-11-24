@@ -1,6 +1,6 @@
 # Welcome to my GitHub Portfolio! 
 
-**I'm Svetlana Tumma** - Aspiring Data Analyst with Marketing & Management Background  
+**I'm Svetlana** - Aspiring Data Analyst with Marketing & Management Background  
 Transitioning to Data Analytics with 10+ years of business experience in marketing and management. 
 Combining strong business acumen with technical skills in data analysis to provide actionable, data-driven insights.
 
