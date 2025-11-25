@@ -48,4 +48,4 @@ Combining strong business acumen with technical skills in data analysis to provi
 ## 📫 Let's Connect!
 
 - **Email**: sv.tumma@gmail.com
-- **LinkedIn**: [svetlanatumma](www.linkedin.com/in/svetlanatumma/)
+- **LinkedIn**: https://www.linkedin.com/in/svetlanatumma/
