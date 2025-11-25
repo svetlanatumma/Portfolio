@@ -22,15 +22,5 @@ RFM (Recency, Frequency, Monetary) analysis of pharmacy customers to optimize ma
 - **Data-driven recommendations** for each customer group
 - **Personalized marketing strategies** developed
 
-## 🖼 Visualizations
-![Customer Segmentation](screenshots/Customer_segmentation.png)
-*RFM customer segments distribution*
-
-![Final RFM Table](screenshots/Final_RFM_table.png)
-*Detailed RFM analysis results*
-
-## 📄 Documentation
-- [Full Analysis Report](RFM_Analysis_SQL_Metabase.pdf)
-- [SQL Script](RFM_Script.sql)
 
 
