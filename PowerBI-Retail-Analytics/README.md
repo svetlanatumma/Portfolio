@@ -22,9 +22,9 @@ The dashboard consists of three pages:
 
 | Page | Description | Key Metrics |
 |------|-------------|-------------|
-| **1. Financial Metrics** | Overall financial performance | Revenue, Profit, Margin, ARV, trends |
-| **2. Checkout Analytics** | Transaction-level analysis | Profit per receipt, items per receipt, sales channels |
-| **3. Purchase Activity** | Customer behavior and operational load | Loyalty program, assortment size, time-based activity |
+| **1. Financial Metrics** | Overall financial performance | Revenue, Profit, Margin, Average Receipt Value(ARV), Daily Revenue & Profit trends, Revenue and Profit by store, Top-3 stores by profit contribution |
+| **2. Checkout Analytics** | Transaction-level analysis | Total receipt count, Profit per receipt, Average items per receipt, Receipt distribution by sales channel (online vs offline), Receipt count and ARV by store |
+| **3. Purchase Activity** | Customer behavior and operational load | Loyalty program, Assortment size by store, Purchase activity by time of day |
 
 
 
