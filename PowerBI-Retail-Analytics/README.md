@@ -31,7 +31,7 @@ The dashboard consists of three pages:
 ## 📸 Dashboard Screenshots
 
 ### Page 1: Financial Metrics
-![Financial Metrics](page_1_financial_metrics.png)
+[![Financial Metrics](page_1_financial_metrics.png)](https://github.com/svetlanatumma/Portfolio/blob/main/PowerBI-Retail-Analytics/1page_FinancialMetrics.png?raw=true)
 
 ### Page 2: Checkout Analytics  
 ![Checkout Analytics](page_2_checkout_analytics.png)
