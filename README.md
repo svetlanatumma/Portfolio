@@ -34,14 +34,23 @@ Combining strong business acumen with technical skills in data analysis to provi
 - Provided data-driven recommendations to reduce marketing costs 
 - Implemented Pareto principle (80/20) for customer value analysis
 
-### *More projects coming soon...*
+### 📊 Power BI Retail Analytics Dashboard
+**Description:** Comprehensive business intelligence dashboard analyzing financial health, sales channels, and customer behavior patterns across 10 pharmacy locations.  
+**Skills Used:** Power BI, DAX, Data Modeling, Financial Analysis, Star Schema Modeling, Dashboard Design, Business Analytics  
+**Key Insights & Strategic Recommendations:**
+– **E-commerce Gap:** Online sales represent only 3% → **Develop digital channel strategy**
+- **Loyalty Program Underperformance:** 8% engagement rate → **Revise program mechanics & communication**
+- **Profit Concentration:** Stores 2 & 11 drive majority of profit → **Replicate best practices chain-wide**
+- **Assortment Inconsistency:** High variability between stores → **Standardize leading store practices**
+- **Anomalous Outperformer:** Store 3 shows exceptional results → **Investigate for scalable strategies**
+- **Peak Activity Timing:** 26.6% of purchases in morning → **Optimize staffing schedules**
 ---
 
 ## 📚 Currently Enhancing
 
 - Advanced SQL for complex queries and optimization
 - Data storytelling and visualization best practices  
-- Python for machine learning applications
+- Python for Data Analysis
 
 ---
 
